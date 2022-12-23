@@ -1,0 +1,1 @@
+export { AmigoOcultolde } from "./game.ts";
